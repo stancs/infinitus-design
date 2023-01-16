@@ -35,14 +35,6 @@
   - Input: Photo from clients
   - Output: Metadata, Photo Management Data, Shared Link
 
-## Questions for System Scalability
-* How many users are there?
-* How much data do we expect to handle?
-* How many requests per second do we expect?
-* What is the expected read-to-write ratio?
-
-(This questions are needed to estimate the system capabilities)
-
 ## Key issues
 
 - How to identify a file's uniqueness?
