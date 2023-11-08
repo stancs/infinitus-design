@@ -1,5 +1,7 @@
 # Photo Sharing Service
 
+This system design challenge has been created as a part of the interview process in one of my previous companies (2023).
+
 ## Requirements
 
 1. Ability for the system to sync photos from remote sources (desktop, mobile, tablet, etc.)
